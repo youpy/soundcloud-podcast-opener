@@ -1,6 +1,6 @@
 {
     "name" : "Soundcloud Podcast Opener",
-    "version" : "0.0.4",
+    "version" : "0.0.5",
     "author" : "youpy",
     "icons" : {
         "16" : "icon.png",
