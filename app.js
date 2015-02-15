@@ -44,7 +44,7 @@ var updateTab = function(tab) {
     pageAction.show(tab.id);
     pageAction.setTitle({
       tabId: tab.id,
-      title: 'Open podcast for ' + getName(tab.url)
+      title: 'Open podcast for ' + getName(tab.url) + '\'s tracks'
     });
   } else {
     pageAction.hide(tab.id);
